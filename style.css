@@ -20,6 +20,22 @@ h2{
     font-family: 'Work Sans', sans-serif;
 }
 
+#more, #more2 {
+    display: none;
+}
+
+#myBtn, #myBtn2{
+    background-color: #4aa1e3;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    border: 2px solid #095086;
+    border-radius: 100px;
+    padding: 10px;
+    width: 110px;
+    transition: 0.3s ease-in-out;
+}
+
 p{
     font-family: 'Work Sans', sans-serif;
 }
