@@ -1,2 +1,2 @@
 # IpvTech
-This is a redone of the IPVtech website
+This is a redone version of the IPVtech website
