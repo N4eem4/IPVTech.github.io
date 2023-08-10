@@ -1,5 +1,5 @@
 html {
-    background-color: #f3f8fb;
+    background-color: #f9fdff;
     height: 100%;
     width: 100%;
     margin: 0px;
@@ -60,7 +60,7 @@ a:hover{
     justify-content: flex-end;
     align-items: center;
     font-size: 30px;
-    background-color:#4aa1e3;
+    background-color:#206eaa;
     text-align: right;
     width: 100%;
     height: 70px;
