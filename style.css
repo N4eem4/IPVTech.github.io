@@ -152,7 +152,6 @@ a:hover{
 @media only screen and (max-width:1000px) {
     #links{
         display: none;
-        transform: translateY(105%);
         width: 100%;
         background-color: #206eaa;
         flex-direction: column;
