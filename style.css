@@ -27,6 +27,7 @@ h2{
 #myBtn, #myBtn2{
     background-color: #4aa1e3;
     font-size: 15px;
+    text-align: center;
     color: white;
     text-decoration: none;
     border: 2px solid #095086;
@@ -111,6 +112,7 @@ a:hover{
     font-size: 15px;
     color: white;
     text-decoration: none;
+    text-align: center;
     border: 2px solid #095086;
     border-radius: 100px;
     padding: 10px;
