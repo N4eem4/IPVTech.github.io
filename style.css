@@ -37,7 +37,7 @@ h2{
     transition: 0.3s ease-in-out;
 }
 
-#myBtn, #myBtn2:hover{
+#myBtn:hover, #myBtn2:hover{
     background-color: #095086;
     border: 2px solid #4aa1e3;
     transition: 0.3s ease-in-out;
