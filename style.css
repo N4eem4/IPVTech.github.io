@@ -79,10 +79,10 @@ a:hover{
 #navlinks{
     padding: 10px;
     text-decoration: none;
-    font-size: 20px;
     color: white;
     transition: 0.3s ease-in-out;
 }
+
 #title{
     color: gold;
     display: flex;
