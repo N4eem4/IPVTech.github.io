@@ -113,7 +113,7 @@ a:hover{
     display: flex;
     flex-direction: column;
     background-color: white;
-    border-radius: 30px;
+    border-radius: 20px;
     padding: 20px;
 }
 
